@@ -15,7 +15,7 @@ to **VISAR EDGE**, a futuristic evolution designed for always-on, context-aware 
 
 ## 💡 Current Projects  
 
-### 🔹 [VISAR EDGE V1.0 (Windows)](https://github.com/RootDeveloperDS/VISAR-EDGE)
+### 🔹 [VISAR EDGE V1.0 (Windows)](https://github.com/RootDeveloperDS/VISAR-EDGE-V1.0.git)
 > A next-generation AI assistant built with Python — cyberpunk-themed, floating UI, context awareness,  
 > and a persistent, evolving intelligence core. Inspired by JARVIS, designed for the future.
 
