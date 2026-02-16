@@ -7,7 +7,7 @@
 ## 🧩 About Me  
 I’m a passionate **Computer Science Engineer** specializing in **Artificial Intelligence & Machine Learning**.  
 I love building intelligent systems that bridge imagination and technology — from **JARVIS**, my AI assistant for Windows,  
-to **VISAR EDGE**, a futuristic evolution designed for always-on, context-aware computing.
+to **VISAR EDGE**, a futuristic evolution of a Partner, designed for always-on, context-aware computing.
 
 > ⚙️ *"If it can think, it can evolve — and I’ll make it happen."*
 
@@ -16,8 +16,8 @@ to **VISAR EDGE**, a futuristic evolution designed for always-on, context-aware 
 ## 💡 Current Projects  
 
 ### 🔹 [VISAR EDGE V1.0 (Windows)](https://github.com/RootDeveloperDS/VISAR-EDGE-V1.0.git)
-> A next-generation AI assistant built with Python — cyberpunk-themed, floating UI, context awareness,  
-> and a persistent, evolving intelligence core. Inspired by JARVIS, designed for the future.
+> A next-generation AI Partner built with Python — cyberpunk-themed, floating UI, context awareness,  
+> and a persistent, evolving intelligence core. Inspired by Scifi, designed for the future.
 
 ### 🔹 [JARVIS (Mark 1 → 20)](https://github.com/RootDeveloperDS/J.A.R.V.I.S.)
 > My first major AI project — a Tkinter-based desktop assistant integrating speech recognition,  
@@ -30,18 +30,18 @@ to **VISAR EDGE**, a futuristic evolution designed for always-on, context-aware 
 | Category | Tools / Frameworks / Libraries |
 |-----------|-------------------------------|
 | 💬 **Languages** | C, C++, Python, SQL |
-| ⚙️ **Frameworks** | Tkinter, CustomTkinter, PyQt6, Flask, FastAPI, React.js |
+| ⚙️ **Frameworks** | Tkinter, CustomTkinter, PySide/PyQt, Flask, FastAPI, React.js |
 | 🧰 **Libraries** | SpeechRecognition, pyttsx3, firebase_admin, requests, threading |
-| 🤖 **AI/ML & APIs** | Gemini API, OpenAI GPT |
-| 💾 **Databases** | Firebase Realtime DB |
-| 🧑‍💻 **Development Tools** | VS Code, Git, PowerShell, Odoo |
+| 🤖 **AI/ML & APIs** | Gemini API, Groq API, OpenAI GPT |
+| 💾 **Databases** | Firebase Realtime DB, Firestore DB |
+| 🧑‍💻 **Development Tools** | VS Code, Git, GitHUB, Firebase, PowerShell, Odoo |
 | 🎨 **UI/UX & Design** | Figma, Canva |
-| 🪄 **Special Skills** | System Automation, AI Integration, API Development, OS Optimization, DIY Electronics Projects |
+| 🪄 **Special Skills** | System Automation, Debugging, Critical Thinking, AI Integration, API Development, OS Optimization, DIY Electronics Projects |
 
 ---
 
 ## 🧬 Learning Journey  
-- 🔭 Currently mastering **Python automation + AI integration**   
+- 🔭 Currently mastering **Python automation + ML + AI integration**   
 - 🌐 Exploring **React.js** for web-based assistants  
 - 💡 Always experimenting with new tech and innovative ideas  
 
@@ -82,7 +82,7 @@ to **VISAR EDGE**, a futuristic evolution designed for always-on, context-aware 
 
 ### ⚡ Fun Fact  
 > I don’t just write code — I *engineer experiences*.  
-> My goal is to make AI **feel alive**.
+> My goal is to make AI **feel alive** with **Partnership**.
 
 ---
 
