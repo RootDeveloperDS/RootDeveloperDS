@@ -21,7 +21,7 @@ my focus is simple:
 
 ---
 
-## 💡 Flagship Projects  
+## 💡 Flagship Products and Projects  
 
 ### 🔹 [VISAR EDGE V1.0 (Windows)](https://github.com/RootDeveloperDS/VISAR-EDGE-V1.0.git)
 > A next-generation AI Partner featuring floating UI, persistent intelligence, and context-aware decision-making.
