@@ -1,0 +1,322 @@
+@import "tailwindcss";
+@import "tailwindcss";
+@source "../"; 
+
+
+
+@theme {
+  --font-orbitron: "Orbitron", sans-serif;
+  --font-space-grotesk: "Space Grotesk", sans-serif;
+  --font-jetbrains: "JetBrains Mono", monospace;
+  --font-inter: "Inter", sans-serif;
+}
+
+:root {
+  --bg-primary: #050505;
+  --bg-secondary: #0a0a0f;
+  --bg-card: rgba(0, 247, 255, 0.03);
+  --bg-glass: rgba(255, 255, 255, 0.03);
+  --accent: #00f7ff;
+  --accent-dim: rgba(0, 247, 255, 0.15);
+  --accent-glow: rgba(0, 247, 255, 0.4);
+  --text-primary: #e0e6f0;
+  --text-secondary: #7a8899;
+  --text-accent: #00f7ff;
+  --border: rgba(0, 247, 255, 0.15);
+  --border-hover: rgba(0, 247, 255, 0.5);
+  --shadow: 0 0 30px rgba(0, 247, 255, 0.1);
+  --shadow-hover: 0 0 50px rgba(0, 247, 255, 0.25);
+  --font-heading: var(--font-orbitron);
+  --font-body: var(--font-inter);
+  --font-mono: var(--font-jetbrains);
+  --grid-color: rgba(0, 247, 255, 0.04);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   VISAR THEME — Sci-Fi / Cyberpunk
+═══════════════════════════════════════════════════════════════ */
+[data-theme="visar"] {
+  --bg-primary: #050505;
+  --bg-secondary: #0a0a0f;
+  --bg-card: rgba(0, 247, 255, 0.03);
+  --bg-glass: rgba(255, 255, 255, 0.03);
+  --accent: #00f7ff;
+  --accent-dim: rgba(0, 247, 255, 0.15);
+  --accent-glow: rgba(0, 247, 255, 0.4);
+  --text-primary: #e0e6f0;
+  --text-secondary: #7a8899;
+  --text-accent: #00f7ff;
+  --border: rgba(0, 247, 255, 0.15);
+  --border-hover: rgba(0, 247, 255, 0.5);
+  --shadow: 0 0 30px rgba(0, 247, 255, 0.1);
+  --shadow-hover: 0 0 50px rgba(0, 247, 255, 0.25);
+  --font-heading: var(--font-orbitron);
+  --font-body: var(--font-inter);
+  --font-mono: var(--font-jetbrains);
+  --grid-color: rgba(0, 247, 255, 0.04);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   PROFESSIONAL THEME — Executive / Apple-Level
+═══════════════════════════════════════════════════════════════ */
+[data-theme="professional"] {
+  --bg-primary: #fafafa;
+  --bg-secondary: #f0f2f5;
+  --bg-card: #ffffff;
+  --bg-glass: rgba(0, 0, 0, 0.02);
+  --accent: #2563eb;
+  --accent-dim: rgba(37, 99, 235, 0.08);
+  --accent-glow: rgba(37, 99, 235, 0.2);
+  --text-primary: #111111;
+  --text-secondary: #64748b;
+  --text-accent: #2563eb;
+  --border: rgba(0, 0, 0, 0.08);
+  --border-hover: rgba(37, 99, 235, 0.3);
+  --shadow: 0 2px 20px rgba(0, 0, 0, 0.06);
+  --shadow-hover: 0 8px 40px rgba(0, 0, 0, 0.12);
+  --font-heading: var(--font-inter);
+  --font-body: var(--font-inter);
+  --font-mono: var(--font-jetbrains);
+  --grid-color: transparent;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   BASE RESET & ROOT
+═══════════════════════════════════════════════════════════════ */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  transition: background-color 0.6s ease, color 0.6s ease;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main {
+  position: relative;
+  z-index: 10;
+}
+
+section[id] {
+  scroll-margin-top: 5.5rem;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   GRID BACKGROUND
+═══════════════════════════════════════════════════════════════ */
+[data-theme="visar"] body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid-color) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-color) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   SCROLLBAR
+═══════════════════════════════════════════════════════════════ */
+[data-theme="visar"] ::-webkit-scrollbar { width: 4px; }
+[data-theme="visar"] ::-webkit-scrollbar-track { background: #0a0a0f; }
+[data-theme="visar"] ::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 2px; }
+
+[data-theme="professional"] ::-webkit-scrollbar { width: 6px; }
+[data-theme="professional"] ::-webkit-scrollbar-track { background: #f0f2f5; }
+[data-theme="professional"] ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+
+/* ═══════════════════════════════════════════════════════════════
+   KEYFRAME ANIMATIONS
+═══════════════════════════════════════════════════════════════ */
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(0, 247, 255, 0.2); }
+  50% { box-shadow: 0 0 40px rgba(0, 247, 255, 0.5), 0 0 80px rgba(0, 247, 255, 0.2); }
+}
+
+@keyframes blink-cursor {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+@keyframes scan-line {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100vh); }
+}
+
+@keyframes float-y {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-12px); }
+}
+
+@keyframes orbit {
+  from { transform: rotate(0deg) translateX(60px) rotate(0deg); }
+  to { transform: rotate(360deg) translateX(60px) rotate(-360deg); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+@keyframes badge-pop {
+  0% { transform: scale(0.8); opacity: 0; }
+  80% { transform: scale(1.05); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   UTILITY CLASSES
+═══════════════════════════════════════════════════════════════ */
+.glass-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, background 0.6s ease;
+}
+
+.glass-card:hover {
+  border-color: var(--border-hover);
+  box-shadow: var(--shadow-hover);
+}
+
+[data-theme="professional"] .glass-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.accent-text {
+  color: var(--text-accent);
+}
+
+.glow-text {
+  text-shadow: 0 0 20px var(--accent-glow);
+}
+
+[data-theme="professional"] .glow-text {
+  text-shadow: none;
+}
+
+.heading-font {
+  font-family: var(--font-heading);
+}
+
+.mono-font {
+  font-family: var(--font-mono);
+}
+
+.accent-border {
+  border-color: var(--accent);
+}
+
+.accent-bg {
+  background-color: var(--accent);
+}
+
+.section-padding {
+  padding: 5rem 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding: 6.5rem 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-padding {
+    padding: 7.5rem 4rem;
+  }
+}
+
+/* Glow ring for VISAR profile */
+[data-theme="visar"] .profile-ring {
+  box-shadow: 0 0 0 2px var(--bg-primary), 0 0 0 4px var(--accent), 0 0 30px var(--accent-glow);
+  animation: glow-pulse 3s ease-in-out infinite;
+}
+
+[data-theme="professional"] .profile-ring {
+  box-shadow: 0 0 0 3px var(--accent-dim), 0 4px 20px rgba(0,0,0,0.1);
+}
+
+/* Terminal styles */
+.terminal-window {
+  background: #0d0d0d;
+  border: 1px solid rgba(0, 247, 255, 0.3);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.terminal-titlebar {
+  background: #1a1a1a;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-bottom: 1px solid rgba(0, 247, 255, 0.1);
+}
+
+.terminal-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.terminal-body {
+  padding: 24px;
+  font-family: var(--font-mono);
+}
+
+.cursor-blink {
+  display: inline-block;
+  width: 8px;
+  height: 16px;
+  background: var(--accent);
+  animation: blink-cursor 1s step-end infinite;
+  vertical-align: text-bottom;
+  margin-left: 2px;
+}
+
+/* Gradient shimmer for text */
+.shimmer-text {
+  background: linear-gradient(
+    90deg,
+    var(--accent) 0%,
+    #ffffff 40%,
+    var(--accent) 80%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmer 4s linear infinite;
+}
+
+[data-theme="professional"] .shimmer-text {
+  background: linear-gradient(
+    90deg,
+    var(--accent) 0%,
+    #1e40af 50%,
+    var(--accent) 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmer 4s linear infinite;
+}

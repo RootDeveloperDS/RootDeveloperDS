@@ -1,0 +1,54 @@
+RootDeveloperDS
+├── README.md
+├── folder_structure.py
+├── folder_structure.txt
+├── image.png
+├── index.html
+├── portfolio
+│   ├── .gitignore
+│   ├── AGENTS.md
+│   ├── CLAUDE.md
+│   ├── README.md
+│   ├── eslint.config.mjs
+│   ├── next-env.d.ts
+│   ├── next.config.ts
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.mjs
+│   ├── public
+│   │   ├── file.svg
+│   │   ├── globe.svg
+│   │   ├── next.svg
+│   │   ├── profile.jpg
+│   │   ├── resume.pdf
+│   │   ├── vercel.svg
+│   │   └── window.svg
+│   ├── src
+│   │   ├── app
+│   │   │   ├── favicon.ico
+│   │   │   ├── globals.css
+│   │   │   ├── layout.tsx
+│   │   │   └── page.tsx
+│   │   ├── components
+│   │   │   ├── AboutSection.tsx
+│   │   │   ├── ContactSection.tsx
+│   │   │   ├── ExperienceTimeline.tsx
+│   │   │   ├── Footer.tsx
+│   │   │   ├── GlowCard.tsx
+│   │   │   ├── HeroSection.tsx
+│   │   │   ├── Navigation.tsx
+│   │   │   ├── ParticleCanvas.tsx
+│   │   │   ├── ProjectGrid.tsx
+│   │   │   ├── ScrollReveal.tsx
+│   │   │   ├── SocialIcons.tsx
+│   │   │   ├── TechStack.tsx
+│   │   │   ├── ThemeToggle.tsx
+│   │   │   └── VisarShowcase.tsx
+│   │   ├── data
+│   │   │   └── content.ts
+│   │   └── lib
+│   │       ├── useIsHydrated.ts
+│   │       └── utils.ts
+│   └── tsconfig.json
+├── portfolio_improvement_suggestions.md
+└── resume.pdf
