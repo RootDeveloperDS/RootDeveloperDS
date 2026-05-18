@@ -246,4 +246,18 @@ my focus is simple:
 
 ---
 
+<div align="center">
+
+### **⭐ Star my repositories if you find them useful! ⭐**
+
+<!-- Animated Support Message -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate;Let's+build+something+amazing+together!)](https://github.com/RootDeveloperDS)
+
+<!-- Dynamic Last Updated Badge -->
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026-00D4FF?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Building%20the%20Future%20of%20AI&fontSize=30&fontAlignY=40)
