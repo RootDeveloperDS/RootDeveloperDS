@@ -1,11 +1,19 @@
+<div align="center">
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Systems+That+Evolve;Creator+of+VISAR+EDGE;Turning+AI+into+an+Interactive+System+Layer" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" alt="Decorative horizontal divider icon" />
+
+</div>
+
+---
+
 # 👋 Hey, I'm Devansh Sharma  
 
 ### 🚀 CSE-AIML Engineer | 🧠 AI Systems Developer | 🔮 Creator of VISAR Edge  
-
+<!--
 ```
 
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -30,6 +38,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 
 ```
+-->
 ```
 
 ███████╗██████╗ ██╗   ██╗███╗   ██╗██████╗ ███████╗██████╗ 
@@ -74,23 +83,38 @@
 
 ---
 
+<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+
 ## 🧠 About Me  
-I build **intelligent, always-on AI systems** that go beyond commands — systems that **understand, adapt, and evolve**.
+I build **intelligent, always-on AI systems** that go beyond commands 
+- systems that **understand, adapt, and evolve**.
+
+```python
+while alive:
+    build()
+    learn()
+    evolve()
+```
+🐍 Python isn't just a language for me.
+It's the core nervous system behind everything I create.
 
 From **JARVIS** (Mark 1 → 21), a multi-version AI assistant,  
-to **VISAR EDGE**, a futuristic AI Partner with real-time context awareness —  
+to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awareness —  
 
-my focus is simple:  
+My focus is simple:  
 👉 Turn AI from a tool into an **interactive system layer**.
 
 > ⚙️ “If it can think, it can evolve.”
+
+<br clear="right"/>
 
 ---
 
 ## 💡 Flagship Products and Projects  
 
 ### 🔹 [VISAR EDGE V1.0 (Windows)](https://github.com/RootDeveloperDS/VISAR-EDGE-V1.0.git)
-> A next-generation AI Partner featuring floating UI, persistent intelligence, and context-aware decision-making.
+> A next-generation AI Partner Layer featuring floating UI, persistent intelligence, and context-aware decision-making.
 
 📅 Timeline: June 16, 2025 – Present  
 🧠 Status: Actively Developed  
