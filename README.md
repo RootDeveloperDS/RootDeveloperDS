@@ -244,6 +244,10 @@ My focus is simple:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootDeveloperDS&theme=tokyo-night" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RootDeveloperDS/RootDeveloperDS/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me  
