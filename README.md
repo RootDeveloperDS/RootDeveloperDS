@@ -235,14 +235,16 @@ My focus is simple:
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RootDeveloperDS&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootDeveloperDS&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RootDeveloperDS&show_icons=true&hide_border=false&bg_color=0B0F1A00&title_color=9B5CFF&text_color=C7D2FE&icon_color=00F6FF&border_color=00F6FF&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootDeveloperDS&hide_border=true&background=0B0F1A00&border=00F6FF&ring=9B5CFF&fire=00F6FF&currStreakNum=00F6FF&sideNums=C7D2FE&currStreakLabel=9B5CFF&sideLabels=9B5CFF&dates=C7D2FE&stroke=00F6FF&border_radius=12" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RootDeveloperDS&theme=tokyo-night" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootDeveloperDS&bg_color=00000000&color=C7D2FE&line=00F6FF&point=9B5CFF&area_color=9B5CFF&area=true&hide_border=true&border_color=00F6FF" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RootDeveloperDS/RootDeveloperDS/output/github-contribution-grid-snake-dark.svg" />
