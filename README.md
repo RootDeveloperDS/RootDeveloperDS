@@ -284,7 +284,10 @@ My focus is simple:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate;Let's+build+something+amazing+together!)](https://github.com/RootDeveloperDS)
 
 <!-- Dynamic Last Updated Badge -->
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026-00D4FF?style=flat-square&logo=github&logoColor=white)
+<!--![Last Updated](https://img.shields.io/badge/Last_Updated-2026-00D4FF?style=flat-square&logo=github&logoColor=white)--->
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=RootDeveloperDS&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RootDeveloperDS)
 
 </div>
 
