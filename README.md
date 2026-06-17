@@ -113,11 +113,12 @@ My focus is simple:
 
 ## 💡 Flagship Products and Projects  
 
-### 🔹 [VISAR EDGE V1.0 (Windows)](https://github.com/RootDeveloperDS/VISAR-EDGE-V1.0.git)
+### 🔹 [VISAR EDGE V1.6 (Windows)](https://github.com/RootDeveloperDS/VISAR-EDGE-V1.0.git) | [🌐 Official Product Page](https://visaredge.vercel.app)
 > A next-generation AI Partner Layer featuring floating UI, persistent intelligence, and context-aware decision-making.
 
+🌐 Official Product Page: [Visar Edge Download](https://visaredge.vercel.app)  
 📅 Timeline: June 16, 2025 – Present  
-🧠 Status: Actively Developed  
+🧠 Status: Actively in Developement  
 🚀 Phase: Evolutionary AI System  
 
 **Core Capabilities:**
