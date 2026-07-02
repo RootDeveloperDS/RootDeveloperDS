@@ -155,6 +155,36 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 ---
 
+### 🔹 `[ NEON NOTES ]` 
+
+> *A zero-trust, cyberpunk-inspired cloud notebook engineered for developers operating in untrusted, shared environments.*
+
+<div align="center">
+
+# 🌐 [ **ACCESS LIVE DEPLOYMENT** ](https://neon-notes.vercel.app/) 🌐
+### 🚀 **`neon-notes.vercel.app`** 🚀
+
+</div>
+<br>
+
+<p>
+  <a href="https://github.com/RootDeveloperDS/MY-NEON-NOTES"><img src="https://img.shields.io/badge/REPO-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
+  <br>
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYED_&_LIVE-000000?style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/badge/SECURITY-ZERO_TRUST_MODEL-000000?style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/badge/TECH-NEXT.JS_/_FIREBASE-000000?style=for-the-badge&color=000000" />
+</p>
+
+| ⚡ **`[ CORE_CAPABILITIES ]`** | 🛡️ **`[ SYSTEM_IDENTITY ]`** |
+| :--- | :--- |
+| • 🔐 Zero-trust dual-session authentication<br>• ⏱️ Aggressive 15-minute idle kill switch<br>• 💻 Auto-detect syntax highlighting (C++, JS, Python)<br>• ☁️ Real-time cloud synchronization | • **Type:** Secure Developer Notebook<br>• **Architecture:** Cross-Platform Web App<br>• **Focus:** Public-Terminal Hardening<br>• **Stack:** Next.js 15, TypeScript, Tailwind |
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/RootDeveloperDS/CDN/refs/heads/main/neonnotes/dashboard-v1.png" alt="Neon Notes Dashboard" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=>+SYSTEM_DIAGNOSTICS:+TECH_STACK;>+ANALYZING_CORE_COMPONENTS...;>+MODULES_LOADED_SUCCESSFULLY" />
 </div>
