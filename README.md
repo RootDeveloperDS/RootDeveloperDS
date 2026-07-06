@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=>+DEVANSH_SHARMA_ONLINE...;>+BUILDING_AI_SYSTEMS_THAT_EVOLVE;>+CREATOR_OF_VISAR_EDGE;>+TURNING_AI_INTO_AN_INTERACTIVE_LAYER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=>+DEVANSH_SHARMA_ONLINE...;>+BUILDING_AI_SYSTEMS_THAT_EVOLVE;>+FOUNDER,+CREATOR_OF_VISAR_EDGE;>+TURNING_AI_INTO_AN_INTERACTIVE_LAYER" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" alt="Decorative horizontal divider icon" />
@@ -12,7 +12,7 @@
 
 <div align="center">
   <h1> <code>[ IDENTITY_VERIFIED_:: DEVANSH SHARMA ]</code> </h1>
-  <h3> ⚡ CSE-AIML Engineer | AI Systems Developer | Lead Architect of VISAR Edge ⚡ </h3>
+  <h3> ⚡ CSE-AIML Engineer | Full Stack AI Architect | Lead Architect of VISAR Edge ⚡ </h3>
 </div>
 
 ```
@@ -43,15 +43,15 @@
 ║               THE MIND BEHIND THE VISAR EDGE ENGINE                  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
-╭──────────────────────────────────────╮
-│        CREATOR IDENTITY // SECURE    │
-├──────────────────────────────────────┤
-│ ROLE        : FOUNDER & LEAD DEV     │
-│ SYSTEM      : VISAR EDGE CORE        │
-│ ACCESS      : OMNIPOTENT             │
-│ STATUS      : ONLINE & INNOVATING    │
-│ DIRECTIVE   : PUSHING BOUNDARIES     │
-╰──────────────────────────────────────╯
+╭───────────────────────────────────────────╮
+│        CREATOR IDENTITY // SECURE         │
+├───────────────────────────────────────────┤
+│ ROLE        : Founder & Chief Architect   │
+│ SYSTEM      : VISAR EDGE CORE             │
+│ ACCESS      : OMNIPOTENT                  │
+│ STATUS      : ONLINE & INNOVATING         │
+│ DIRECTIVE   : PUSHING BOUNDARIES          │
+╰───────────────────────────────────────────╯
 
 [ SYSTEM OVERRIDE ACCEPTED. WELCOME, CREATOR. ]
 
@@ -177,10 +177,10 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 | ⚡ **`[ CORE_CAPABILITIES ]`** | 🛡️ **`[ SYSTEM_IDENTITY ]`** |
 | :--- | :--- |
-| • 🔐 Zero-trust dual-session authentication<br>• ⏱️ Aggressive 15-minute idle kill switch<br>• 💻 Auto-detect syntax highlighting (C++, JS, Python)<br>• ☁️ Real-time cloud synchronization | • **Type:** Secure Developer Notebook<br>• **Architecture:** Cross-Platform Web App<br>• **Focus:** Public-Terminal Hardening<br>• **Stack:** Next.js 15, TypeScript, Tailwind |
+| • 🔐 Zero-trust dual-session & custom token authentication<br>• 🌍 Public note sharing architecture<br>• 💻 Heuristic syntax auto-highlighting (10+ languages)<br>• ☁️ Real-time cloud synchronization<br>• ⏱️ Aggressive 15-minute idle kill switch<br>• 🔍 Global search & multi-theme support | • **Type:** Secure Developer and General Notebook<br>• **Architecture:** Cross-Platform Web App<br>• **Focus:** Public-Terminal Hardening<br>• **Stack:** Next.js 15, TypeScript, Tailwind |
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/RootDeveloperDS/CDN/refs/heads/main/neonnotes/dashboard-v1.png" alt="Neon Notes Dashboard" />
+  <img width="100%" src="https://raw.githubusercontent.com/RootDeveloperDS/CDN/refs/heads/main/neonnotes/neon-notes-dashboard-latest.png" alt="Neon Notes Dashboard" />
 </div>
 
 ---
@@ -271,6 +271,10 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootDeveloperDS&bg_color=0000000&color=81E6D9&line=00F7FF&point=00F7FF&area_color=00F7FF&area=true&hide_border=true&border_radius=0&border_color=00F7FF" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RootDeveloperDS/RootDeveloperDS/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
