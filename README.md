@@ -108,7 +108,7 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 <div align="center">
 
-# 🌐 [ **ACCESS OFFICIAL PRODUCT PAGE** ](https://visaredge.vercel.app) 🌐
+# 🌐 [ **VISAR EDGE - OFFICIAL PRODUCT PAGE** ](https://visaredge.vercel.app) 🌐
 ### 🚀 **`visaredge.vercel.app`** 🚀
 
 </div>
@@ -136,8 +136,16 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 > *A progressively evolved AI assistant — from simple automation to an intelligent modular system.*
 
+<div align="center">
+
+# 🌐 [ **J.A.R.V.I.S.** ](https://github.com/RootDeveloperDS/J.A.R.V.I.S./) 🌐
+### 🚀 **`github.com/RootDeveloperDS/J.A.R.V.I.S.`** 🚀
+
+</div>
+<br>
+
 <p>
-  <a href="https://github.com/RootDeveloperDS/J.A.R.V.I.S."><img src="https://img.shields.io/badge/REPO-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
+  <a href="https://github.com/RootDeveloperDS/J.A.R.V.I.S./"><img src="https://img.shields.io/badge/REPO-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
   <br>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-000000?style=for-the-badge&color=000000" />
   <img src="https://img.shields.io/badge/PHASE-FOUNDATIONAL_AI_DEV-000000?style=for-the-badge&color=000000" />
@@ -161,7 +169,7 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 <div align="center">
 
-# 🌐 [ **ACCESS LIVE DEPLOYMENT** ](https://neon-notes.vercel.app/) 🌐
+# 🌐 [ **NEON NOTES - LIVE DEPLOYMENT** ](https://neon-notes.vercel.app/) 🌐
 ### 🚀 **`neon-notes.vercel.app`** 🚀
 
 </div>
