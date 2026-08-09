@@ -163,6 +163,36 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 ---
 
+### 🔹 `[ DEVANSH SHARMA PORTFOLIO (v12.4.0) ]` 
+
+> *A modular Cyberpunk & Executive Portfolio Hub bridging interactive glassmorphism, dynamic data matrices, and a simulated sci-fi terminal.*
+
+<div align="center">
+
+# 🌐 [ **DEVANSH SHARMA - LIVE** ](https://devanshsharma.vercel.app) 🌐
+### 🚀 **`devanshsharma.vercel.app`** 🚀
+
+</div>
+<br>
+
+<p>
+  <a href="https://github.com/RootDeveloperDS/devanshsharmadev"><img src="https://img.shields.io/badge/REPO-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
+  <br>
+  <img src="https://img.shields.io/badge/STATUS-100%25_OPEN_SOURCE-000000?style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/badge/FRAMEWORK-REACT_18_/_VITE-000000?style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/badge/STYLING-TAILWIND_/_FRAMER_MOTION-000000?style=for-the-badge&color=000000" />
+</p>
+
+| ⚡ **`[ CORE_CAPABILITIES ]`** | 🧩 **`[ SYSTEM_IDENTITY ]`** |
+| :--- | :--- |
+| • ⚡ Command Palette (⌘K) global search<br>• 🤖 VISAR AI Agent floating widget<br>• 📊 Centralized dynamic data matrix<br>• 🌐 GEO JSON-LD structured schemas | • **Type:** Executive Portfolio Hub<br>• **Architecture:** High-Performance Frontend<br>• **Design:** Cyberpunk / Glassmorphism<br>• **Stack:** React, TypeScript, Tailwind |
+
+<div align="center">
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/RootDeveloperDS/CDN@main/images/devansh-portfolio/main-dashboard-dark-1.png" alt="Devansh Sharma Portfolio Preview" style="border-radius: 12px;" />
+</div>
+
+---
+
 ### 🔹 `[ NEON NOTES ]` 
 
 > *A zero-trust, cyberpunk-inspired cloud notebook engineered for developers operating in untrusted, shared environments.*
