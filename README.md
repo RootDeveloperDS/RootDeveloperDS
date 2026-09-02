@@ -300,15 +300,15 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 
 <p align="center">
   <a href="https://github.com/RootDeveloperDS">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RootDeveloperDS&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=81E6D9&icon_color=00F7FF&border_color=00F7FF&border_radius=0" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=RootDeveloperDS&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=81E6D9&icon_color=00F7FF&border_color=00F7FF&border_radius=0" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/RootDeveloperDS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootDeveloperDS&hide_border=true&background=00000000&border=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF&sideNums=81E6D9&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=81E6D9&stroke=00F7FF&border_radius=0" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=RootDeveloperDS&hide_border=true&background=00000000&border=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF&sideNums=81E6D9&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=81E6D9&stroke=00F7FF&border_radius=0" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootDeveloperDS&bg_color=0000000&color=81E6D9&line=00F7FF&point=00F7FF&area_color=00F7FF&area=true&hide_border=true&border_radius=0&border_color=00F7FF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-nine-gilt.vercel.app/graph?username=RootDeveloperDS&bg_color=00000000&color=81E6D9&line=00F7FF&point=00F7FF&area_color=00F7FF&area=true&hide_border=true&border_radius=0&border_color=00F7FF" alt="Activity Graph" />
 </p>
 
 <p align="center">
