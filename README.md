@@ -128,7 +128,7 @@ to **VISAR EDGE**, a futuristic AI Partner Layer with real-time context awarenes
 | • 🧠 Context-aware multi-step reasoning<br>• 🎤 Voice + text hybrid interaction<br>• 🪟 Always-on floating overlay UI<br>• ⚡ Modular & scalable architecture<br>• 🔌 Multi-API integration (Gemini, Groq, Custom) | • **Type:** AI Partner System<br>• **Architecture:** Modular + Agent-Based<br>• **Mode:** Always-On (Overlay System)<br>• **Vision:** OS-Level AI Integration |
 
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/5b0c8c6e-dd60-4753-a81e-b59695cef062" alt="Visar Edge UI" />
+  <img width="100%" src="https://github.com/user-attachments/assets/d744080a-b29d-43d0-9f7c-688723eb5ca1" alt="Visar Edge UI" />
 </div>
 
 ---
